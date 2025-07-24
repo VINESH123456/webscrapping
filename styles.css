@@ -1,0 +1,14 @@
+body {
+    font-family: 'Segoe UI', sans-serif;
+    background-color: #f8f9fa;
+}
+.card {
+    border-radius: 1rem;
+}
+.btn {
+    font-weight: 500;
+    font-size: 1.1rem;
+}
+textarea {
+    resize: vertical;
+}

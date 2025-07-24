@@ -1,0 +1,9 @@
+{% extends "index.html" %}
+{% block content %}
+<h4>Recent Log Entries</h4>
+<pre class="bg-light p-3" style="max-height: 500px; overflow-y: auto;">
+{% for line in logs %}
+{{ line }}
+{% endfor %}
+</pre>
+{% endblock %}

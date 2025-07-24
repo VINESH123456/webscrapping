@@ -1,0 +1,298 @@
+2025-07-18 15:08:07,529 - INFO - Login successful.
+2025-07-18 15:08:07,872 - INFO - Scraped 10 quotes from https://quotes.toscrape.com/page/1/
+2025-07-18 15:08:08,246 - INFO - Scraped 10 quotes from https://quotes.toscrape.com/page/2/
+2025-07-18 15:08:12,238 - INFO - Exported data to Google Sheets successfully.
+2025-07-18 15:08:12,804 - INFO - Excel file saved to output\quotes_output.xlsx
+2025-07-18 16:03:16,135 - WARNING -  * Debugger is active!
+2025-07-18 16:03:16,139 - INFO -  * Debugger PIN: 120-699-887
+2025-07-18 16:03:16,552 - WARNING -  * Debugger is active!
+2025-07-18 16:03:16,556 - INFO -  * Debugger PIN: 120-699-887
+2025-07-18 16:03:37,400 - INFO - 127.0.0.1 - - [18/Jul/2025 16:03:37] "GET / HTTP/1.1" 200 -
+2025-07-18 16:07:54,748 - INFO - 127.0.0.1 - - [18/Jul/2025 16:07:54] "GET / HTTP/1.1" 200 -
+2025-07-18 16:07:54,864 - INFO - 127.0.0.1 - - [18/Jul/2025 16:07:54] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -
+2025-07-18 16:10:10,276 - INFO - 127.0.0.1 - - [18/Jul/2025 16:10:10] "GET / HTTP/1.1" 200 -
+2025-07-18 16:10:10,303 - INFO - 127.0.0.1 - - [18/Jul/2025 16:10:10] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -
+2025-07-18 22:35:48,374 - INFO -  * Detected change in 'C:\\Users\\Admin\\OneDrive\\Desktop\\webscraping\\app.py', reloading
+2025-07-18 22:35:48,380 - INFO -  * Detected change in 'C:\\Users\\Admin\\OneDrive\\Desktop\\webscraping\\app.py', reloading
+2025-07-18 22:35:48,386 - INFO -  * Detected change in 'C:\\Users\\Admin\\OneDrive\\Desktop\\webscraping\\app.py', reloading
+2025-07-18 22:35:57,597 - WARNING -  * Debugger is active!
+2025-07-18 22:35:57,613 - INFO -  * Debugger PIN: 120-699-887
+2025-07-18 22:35:57,752 - WARNING -  * Debugger is active!
+2025-07-18 22:35:57,756 - INFO -  * Debugger PIN: 120-699-887
+2025-07-18 22:36:15,086 - INFO -  * Detected change in 'C:\\Users\\Admin\\OneDrive\\Desktop\\webscraping\\app.py', reloading
+2025-07-18 22:36:15,836 - INFO -  * Detected change in 'C:\\Users\\Admin\\OneDrive\\Desktop\\webscraping\\app.py', reloading
+2025-07-18 22:36:17,938 - WARNING -  * Debugger is active!
+2025-07-18 22:36:17,943 - INFO -  * Debugger PIN: 120-699-887
+2025-07-18 22:36:18,976 - WARNING -  * Debugger is active!
+2025-07-18 22:36:18,981 - INFO -  * Debugger PIN: 120-699-887
+2025-07-18 22:36:42,905 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-18 22:36:42,905 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-18 22:36:42,908 - INFO -  * Restarting with stat
+2025-07-18 22:36:44,458 - WARNING -  * Debugger is active!
+2025-07-18 22:36:44,458 - INFO -  * Debugger PIN: 120-699-887
+2025-07-18 22:37:33,004 - INFO - 127.0.0.1 - - [18/Jul/2025 22:37:33] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-07-18 22:37:43,084 - INFO - 127.0.0.1 - - [18/Jul/2025 22:37:43] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-07-18 22:37:59,567 - INFO - 127.0.0.1 - - [18/Jul/2025 22:37:59] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-07-18 23:00:57,630 - INFO - 127.0.0.1 - - [18/Jul/2025 23:00:57] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-07-18 23:05:54,299 - INFO - 127.0.0.1 - - [18/Jul/2025 23:05:54] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-07-18 23:06:05,314 - INFO - 127.0.0.1 - - [18/Jul/2025 23:06:05] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-07-18 23:07:38,705 - INFO -  * Detected change in 'C:\\Users\\Admin\\OneDrive\\Desktop\\webscraping\\app.py', reloading
+2025-07-18 23:07:38,715 - INFO -  * Detected change in 'C:\\Users\\Admin\\OneDrive\\Desktop\\webscraping\\app.py', reloading
+2025-07-18 23:07:38,729 - INFO -  * Detected change in 'C:\\Users\\Admin\\OneDrive\\Desktop\\webscraping\\app.py', reloading
+2025-07-18 23:07:39,872 - INFO -  * Restarting with stat
+2025-07-18 23:07:45,256 - WARNING -  * Debugger is active!
+2025-07-18 23:07:45,297 - INFO -  * Debugger PIN: 120-699-887
+2025-07-18 23:07:45,369 - WARNING -  * Debugger is active!
+2025-07-18 23:07:45,375 - INFO -  * Debugger PIN: 120-699-887
+2025-07-18 23:07:45,399 - WARNING -  * Debugger is active!
+2025-07-18 23:07:45,407 - INFO -  * Debugger PIN: 120-699-887
+2025-07-18 23:07:47,313 - INFO - 127.0.0.1 - - [18/Jul/2025 23:07:47] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-07-18 23:08:08,152 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-18 23:08:08,157 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-18 23:08:08,157 - INFO -  * Restarting with stat
+2025-07-18 23:08:09,893 - WARNING -  * Debugger is active!
+2025-07-18 23:08:09,895 - INFO -  * Debugger PIN: 120-699-887
+2025-07-18 23:08:29,270 - INFO - 127.0.0.1 - - [18/Jul/2025 23:08:29] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-07-18 23:08:49,000 - INFO - 127.0.0.1 - - [18/Jul/2025 23:08:49] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-07-18 23:15:43,598 - INFO - 127.0.0.1 - - [18/Jul/2025 23:15:43] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-07-18 23:15:50,932 - INFO - 127.0.0.1 - - [18/Jul/2025 23:15:50] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-07-18 23:16:50,980 - INFO - 127.0.0.1 - - [18/Jul/2025 23:16:50] "GET / HTTP/1.1" 200 -
+2025-07-18 23:17:34,994 - INFO - Login successful
+2025-07-18 23:17:34,997 - INFO - Scraping from: https://quotes.toscrape.com/page/1/
+2025-07-18 23:17:35,412 - INFO - Scraped 10 quotes from https://quotes.toscrape.com/page/1/
+2025-07-18 23:17:35,412 - INFO - Scraping from: https://quotes.toscrape.com/page/2/
+2025-07-18 23:17:35,749 - INFO - Scraped 10 quotes from https://quotes.toscrape.com/page/2/
+2025-07-18 23:17:37,197 - INFO - 127.0.0.1 - - [18/Jul/2025 23:17:37] "[32mPOST /scrape HTTP/1.1[0m" 302 -
+2025-07-18 23:17:38,382 - INFO - Login successful
+2025-07-18 23:17:38,382 - INFO - Scraping from: https://quotes.toscrape.com/page/1/
+2025-07-18 23:17:38,703 - INFO - Scraped 10 quotes from https://quotes.toscrape.com/page/1/
+2025-07-18 23:17:38,703 - INFO - Scraping from: https://quotes.toscrape.com/page/2/
+2025-07-18 23:17:39,150 - INFO - Scraped 10 quotes from https://quotes.toscrape.com/page/2/
+2025-07-18 23:17:39,218 - INFO - 127.0.0.1 - - [18/Jul/2025 23:17:39] "[32mPOST /scrape HTTP/1.1[0m" 302 -
+2025-07-18 23:17:39,923 - INFO - Login successful
+2025-07-18 23:17:39,924 - INFO - Scraping from: https://quotes.toscrape.com/page/1/
+2025-07-18 23:17:40,322 - INFO - Login successful
+2025-07-18 23:17:40,377 - INFO - Scraping from: https://quotes.toscrape.com/page/1/
+2025-07-18 23:17:40,466 - INFO - Scraped 10 quotes from https://quotes.toscrape.com/page/1/
+2025-07-18 23:17:40,466 - INFO - Scraping from: https://quotes.toscrape.com/page/2/
+2025-07-18 23:17:40,520 - INFO - Login successful
+2025-07-18 23:17:40,522 - INFO - Scraping from: https://quotes.toscrape.com/page/1/
+2025-07-18 23:17:40,693 - INFO - Login successful
+2025-07-18 23:17:40,706 - INFO - Scraping from: https://quotes.toscrape.com/page/1/
+2025-07-18 23:17:40,714 - INFO - Scraped 10 quotes from https://quotes.toscrape.com/page/1/
+2025-07-18 23:17:40,714 - INFO - Scraping from: https://quotes.toscrape.com/page/2/
+2025-07-18 23:17:40,870 - INFO - Login successful
+2025-07-18 23:17:40,870 - INFO - Login successful
+2025-07-18 23:17:40,870 - INFO - Scraping from: https://quotes.toscrape.com/page/1/
+2025-07-18 23:17:40,870 - INFO - Scraping from: https://quotes.toscrape.com/page/1/
+2025-07-18 23:17:40,949 - INFO - Scraped 10 quotes from https://quotes.toscrape.com/page/2/
+2025-07-18 23:17:40,957 - INFO - Scraped 10 quotes from https://quotes.toscrape.com/page/1/
+2025-07-18 23:17:40,960 - INFO - Scraping from: https://quotes.toscrape.com/page/2/
+2025-07-18 23:17:40,982 - INFO - 127.0.0.1 - - [18/Jul/2025 23:17:40] "[32mPOST /scrape HTTP/1.1[0m" 302 -
+2025-07-18 23:17:41,067 - INFO - Scraped 10 quotes from https://quotes.toscrape.com/page/1/
+2025-07-18 23:17:41,089 - INFO - Login successful
+2025-07-18 23:17:41,097 - INFO - Scraped 10 quotes from https://quotes.toscrape.com/page/2/
+2025-07-18 23:17:41,097 - INFO - Scraping from: https://quotes.toscrape.com/page/2/
+2025-07-18 23:17:41,097 - INFO - Scraping from: https://quotes.toscrape.com/page/1/
+2025-07-18 23:17:41,128 - INFO - 127.0.0.1 - - [18/Jul/2025 23:17:41] "[32mPOST /scrape HTTP/1.1[0m" 302 -
+2025-07-18 23:17:41,518 - INFO - Scraped 10 quotes from https://quotes.toscrape.com/page/1/
+2025-07-18 23:17:41,552 - INFO - Scraped 10 quotes from https://quotes.toscrape.com/page/1/
+2025-07-18 23:17:41,552 - INFO - Scraping from: https://quotes.toscrape.com/page/2/
+2025-07-18 23:17:41,588 - INFO - Scraping from: https://quotes.toscrape.com/page/2/
+2025-07-18 23:17:41,660 - INFO - Scraped 10 quotes from https://quotes.toscrape.com/page/2/
+2025-07-18 23:17:41,666 - INFO - Scraped 10 quotes from https://quotes.toscrape.com/page/1/
+2025-07-18 23:17:41,964 - INFO - Scraped 10 quotes from https://quotes.toscrape.com/page/2/
+2025-07-18 23:17:41,966 - INFO - Scraping from: https://quotes.toscrape.com/page/2/
+2025-07-18 23:17:41,966 - INFO - Login successful
+2025-07-18 23:17:41,966 - INFO - Scraping from: https://quotes.toscrape.com/page/1/
+2025-07-18 23:17:41,997 - INFO - Scraped 10 quotes from https://quotes.toscrape.com/page/2/
+2025-07-18 23:17:42,017 - INFO - Scraped 10 quotes from https://quotes.toscrape.com/page/2/
+2025-07-18 23:17:42,088 - INFO - 127.0.0.1 - - [18/Jul/2025 23:17:42] "[32mPOST /scrape HTTP/1.1[0m" 302 -
+2025-07-18 23:17:42,091 - INFO - 127.0.0.1 - - [18/Jul/2025 23:17:42] "[32mPOST /scrape HTTP/1.1[0m" 302 -
+2025-07-18 23:17:42,099 - INFO - 127.0.0.1 - - [18/Jul/2025 23:17:42] "[32mPOST /scrape HTTP/1.1[0m" 302 -
+2025-07-18 23:17:42,102 - INFO - 127.0.0.1 - - [18/Jul/2025 23:17:42] "[32mPOST /scrape HTTP/1.1[0m" 302 -
+2025-07-18 23:17:42,347 - INFO - Scraped 10 quotes from https://quotes.toscrape.com/page/2/
+2025-07-18 23:17:42,360 - INFO - Scraped 10 quotes from https://quotes.toscrape.com/page/1/
+2025-07-18 23:17:42,361 - INFO - Scraping from: https://quotes.toscrape.com/page/2/
+2025-07-18 23:17:42,389 - INFO - 127.0.0.1 - - [18/Jul/2025 23:17:42] "[32mPOST /scrape HTTP/1.1[0m" 302 -
+2025-07-18 23:17:42,545 - INFO - 127.0.0.1 - - [18/Jul/2025 23:17:42] "GET /download HTTP/1.1" 200 -
+2025-07-18 23:17:42,569 - INFO - Login successful
+2025-07-18 23:17:42,569 - INFO - Scraping from: https://quotes.toscrape.com/page/1/
+2025-07-18 23:17:42,706 - INFO - Scraped 10 quotes from https://quotes.toscrape.com/page/2/
+2025-07-18 23:17:42,729 - INFO - 127.0.0.1 - - [18/Jul/2025 23:17:42] "[32mPOST /scrape HTTP/1.1[0m" 302 -
+2025-07-18 23:17:42,908 - INFO - Scraped 10 quotes from https://quotes.toscrape.com/page/1/
+2025-07-18 23:17:42,908 - INFO - Scraping from: https://quotes.toscrape.com/page/2/
+2025-07-18 23:17:43,249 - INFO - Scraped 10 quotes from https://quotes.toscrape.com/page/2/
+2025-07-18 23:17:43,372 - INFO - 127.0.0.1 - - [18/Jul/2025 23:17:43] "[32mPOST /scrape HTTP/1.1[0m" 302 -
+2025-07-18 23:35:47,010 - INFO -  * Detected change in 'C:\\Users\\Admin\\OneDrive\\Desktop\\webscraping\\app.py', reloading
+2025-07-18 23:35:47,087 - INFO -  * Detected change in 'C:\\Users\\Admin\\OneDrive\\Desktop\\webscraping\\app.py', reloading
+2025-07-18 23:35:47,093 - INFO -  * Detected change in 'C:\\Users\\Admin\\OneDrive\\Desktop\\webscraping\\app.py', reloading
+2025-07-18 23:35:48,401 - INFO -  * Restarting with stat
+2025-07-18 23:35:52,457 - WARNING -  * Debugger is active!
+2025-07-18 23:35:52,469 - INFO -  * Debugger PIN: 120-699-887
+2025-07-18 23:35:52,711 - WARNING -  * Debugger is active!
+2025-07-18 23:35:52,714 - INFO -  * Debugger PIN: 120-699-887
+2025-07-18 23:35:52,773 - WARNING -  * Debugger is active!
+2025-07-18 23:35:52,777 - INFO -  * Debugger PIN: 120-699-887
+2025-07-18 23:36:08,277 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-18 23:36:08,280 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-18 23:36:08,282 - INFO -  * Restarting with stat
+2025-07-18 23:36:10,322 - WARNING -  * Debugger is active!
+2025-07-18 23:36:10,324 - INFO -  * Debugger PIN: 120-699-887
+2025-07-18 23:36:13,353 - INFO - 127.0.0.1 - - [18/Jul/2025 23:36:13] "GET / HTTP/1.1" 200 -
+2025-07-18 23:37:15,652 - INFO - Login successful
+2025-07-18 23:37:15,652 - INFO - Scraping URL: https://en.wikipedia.org/wiki/History_of_India
+2025-07-18 23:37:16,067 - INFO - 127.0.0.1 - - [18/Jul/2025 23:37:16] "GET /download HTTP/1.1" 200 -
+2025-07-18 23:37:17,407 - INFO - Scraped 0 quotes from https://en.wikipedia.org/wiki/History_of_India
+2025-07-18 23:37:17,410 - WARNING - No data scraped
+2025-07-18 23:37:17,411 - INFO - 127.0.0.1 - - [18/Jul/2025 23:37:17] "[32mPOST /scrape HTTP/1.1[0m" 302 -
+2025-07-18 23:39:24,772 - INFO - Login successful.
+2025-07-18 23:39:25,814 - INFO - Scraped 0 quotes from https://en.wikipedia.org/wiki/History_of_India
+2025-07-18 23:39:29,215 - INFO - Exported data to Google Sheets successfully.
+2025-07-18 23:39:29,910 - INFO - Excel file saved to output\quotes_output.xlsx
+2025-07-18 23:41:56,429 - INFO - Login successful.
+2025-07-18 23:41:58,089 - INFO - Scraped 0 quotes from https://en.wikipedia.org/wiki/History_of_India
+2025-07-18 23:42:01,038 - INFO - Exported data to Google Sheets successfully.
+2025-07-18 23:42:01,543 - INFO - Excel file saved to output\quotes_output.xlsx
+2025-07-18 23:43:12,837 - INFO - Login successful.
+2025-07-18 23:43:13,150 - INFO - Scraped 10 quotes from https://quotes.toscrape.com/page/1/
+2025-07-18 23:43:13,468 - INFO - Scraped 10 quotes from https://quotes.toscrape.com/page/2/
+2025-07-18 23:43:17,103 - INFO - Exported data to Google Sheets successfully.
+2025-07-18 23:43:17,755 - INFO - Excel file saved to output\quotes_output.xlsx
+2025-07-19 00:00:39,504 - INFO -  * Detected change in 'C:\\Users\\Admin\\OneDrive\\Desktop\\webscraping\\app.py', reloading
+2025-07-19 00:00:39,530 - INFO -  * Detected change in 'C:\\Users\\Admin\\OneDrive\\Desktop\\webscraping\\app.py', reloading
+2025-07-19 00:00:46,329 - WARNING -  * Debugger is active!
+2025-07-19 00:00:46,383 - INFO -  * Debugger PIN: 120-699-887
+2025-07-19 00:00:46,554 - WARNING -  * Debugger is active!
+2025-07-19 00:00:46,558 - INFO -  * Debugger PIN: 120-699-887
+2025-07-19 18:19:59,440 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-19 18:19:59,461 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-19 18:19:59,466 - INFO -  * Restarting with stat
+2025-07-19 18:20:01,225 - WARNING -  * Debugger is active!
+2025-07-19 18:20:01,238 - INFO -  * Debugger PIN: 120-699-887
+2025-07-19 18:20:42,792 - INFO - 127.0.0.1 - - [19/Jul/2025 18:20:42] "GET / HTTP/1.1" 200 -
+2025-07-19 18:20:43,177 - INFO - 127.0.0.1 - - [19/Jul/2025 18:20:43] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-19 18:23:11,630 - INFO - Scraping URL: https://en.wikipedia.org/wiki/India
+2025-07-19 18:23:16,063 - INFO - Scraping complete.
+2025-07-19 18:23:16,067 - INFO - 127.0.0.1 - - [19/Jul/2025 18:23:16] "[32mPOST /scrape HTTP/1.1[0m" 302 -
+2025-07-19 18:23:16,082 - INFO - 127.0.0.1 - - [19/Jul/2025 18:23:16] "GET / HTTP/1.1" 200 -
+2025-07-19 18:23:24,534 - INFO - 127.0.0.1 - - [19/Jul/2025 18:23:24] "GET /logs HTTP/1.1" 200 -
+2025-07-19 18:23:26,244 - INFO - 127.0.0.1 - - [19/Jul/2025 18:23:26] "GET /history HTTP/1.1" 200 -
+2025-07-19 18:23:28,859 - INFO - 127.0.0.1 - - [19/Jul/2025 18:23:28] "GET / HTTP/1.1" 200 -
+2025-07-19 18:24:25,144 - INFO - 127.0.0.1 - - [19/Jul/2025 18:24:25] "GET /history HTTP/1.1" 200 -
+2025-07-19 18:24:26,551 - INFO - 127.0.0.1 - - [19/Jul/2025 18:24:26] "GET /history HTTP/1.1" 200 -
+2025-07-19 18:24:28,313 - INFO - 127.0.0.1 - - [19/Jul/2025 18:24:28] "GET /logs HTTP/1.1" 200 -
+2025-07-19 18:24:33,419 - INFO - 127.0.0.1 - - [19/Jul/2025 18:24:33] "GET /history HTTP/1.1" 200 -
+2025-07-19 18:32:06,633 - INFO - 127.0.0.1 - - [19/Jul/2025 18:32:06] "[35m[1mGET /history HTTP/1.1[0m" 500 -
+2025-07-19 18:32:06,897 - INFO - 127.0.0.1 - - [19/Jul/2025 18:32:06] "GET /history?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-07-19 18:32:06,936 - INFO - 127.0.0.1 - - [19/Jul/2025 18:32:06] "GET /history?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-07-19 18:32:07,097 - INFO - 127.0.0.1 - - [19/Jul/2025 18:32:07] "GET /history?__debugger__=yes&cmd=resource&f=console.png&s=CyeXNajyG0HilAQAPEhu HTTP/1.1" 200 -
+2025-07-19 18:32:07,231 - INFO - 127.0.0.1 - - [19/Jul/2025 18:32:07] "GET /history?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-07-19 18:34:34,267 - INFO - 127.0.0.1 - - [19/Jul/2025 18:34:34] "GET /history HTTP/1.1" 200 -
+2025-07-19 18:34:43,012 - INFO - 127.0.0.1 - - [19/Jul/2025 18:34:43] "GET /download HTTP/1.1" 200 -
+2025-07-19 18:35:04,805 - INFO - 127.0.0.1 - - [19/Jul/2025 18:35:04] "[32mGET /logs HTTP/1.1[0m" 302 -
+2025-07-19 18:35:04,872 - INFO - 127.0.0.1 - - [19/Jul/2025 18:35:04] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-07-19 18:35:04,991 - INFO - 127.0.0.1 - - [19/Jul/2025 18:35:04] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-07-19 18:35:05,051 - INFO - 127.0.0.1 - - [19/Jul/2025 18:35:05] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-07-19 18:35:05,265 - INFO - 127.0.0.1 - - [19/Jul/2025 18:35:05] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=CyeXNajyG0HilAQAPEhu HTTP/1.1" 200 -
+2025-07-19 18:35:05,404 - INFO - 127.0.0.1 - - [19/Jul/2025 18:35:05] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-07-19 18:35:49,810 - INFO - 127.0.0.1 - - [19/Jul/2025 18:35:49] "GET /history HTTP/1.1" 200 -
+2025-07-19 18:35:51,859 - INFO - 127.0.0.1 - - [19/Jul/2025 18:35:51] "GET /history HTTP/1.1" 200 -
+2025-07-19 18:36:27,641 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-19 18:36:27,641 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-19 18:36:27,651 - INFO -  * Restarting with stat
+2025-07-19 18:36:29,353 - WARNING -  * Debugger is active!
+2025-07-19 18:36:29,364 - INFO -  * Debugger PIN: 120-699-887
+2025-07-19 18:36:34,748 - INFO - 127.0.0.1 - - [19/Jul/2025 18:36:34] "GET /history HTTP/1.1" 200 -
+2025-07-19 18:36:44,636 - INFO - 127.0.0.1 - - [19/Jul/2025 18:36:44] "[32mGET /logs HTTP/1.1[0m" 302 -
+2025-07-19 18:37:47,103 - INFO - 127.0.0.1 - - [19/Jul/2025 18:37:47] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-07-19 18:37:47,277 - INFO - 127.0.0.1 - - [19/Jul/2025 18:37:47] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-07-19 18:37:47,281 - INFO - 127.0.0.1 - - [19/Jul/2025 18:37:47] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-07-19 18:37:47,351 - INFO - 127.0.0.1 - - [19/Jul/2025 18:37:47] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=CYYGUGXgECPVx5XkhySJ HTTP/1.1" 200 -
+2025-07-19 18:37:55,698 - INFO - 127.0.0.1 - - [19/Jul/2025 18:37:55] "GET /history HTTP/1.1" 200 -
+2025-07-19 18:42:53,114 - INFO - 127.0.0.1 - - [19/Jul/2025 18:42:53] "GET /history HTTP/1.1" 200 -
+2025-07-19 18:44:17,130 - INFO - 127.0.0.1 - - [19/Jul/2025 18:44:17] "GET / HTTP/1.1" 200 -
+2025-07-19 18:45:15,752 - INFO - Scraping URL: https://en.wikipedia.org/wiki/Geography_of_India
+2025-07-19 18:45:18,464 - INFO - Scraping complete.
+2025-07-19 18:45:18,468 - INFO - 127.0.0.1 - - [19/Jul/2025 18:45:18] "[32mPOST /scrape HTTP/1.1[0m" 302 -
+2025-07-19 18:45:18,488 - INFO - 127.0.0.1 - - [19/Jul/2025 18:45:18] "GET / HTTP/1.1" 200 -
+2025-07-19 18:45:22,171 - INFO - 127.0.0.1 - - [19/Jul/2025 18:45:22] "GET /history HTTP/1.1" 200 -
+2025-07-19 18:45:24,892 - INFO - 127.0.0.1 - - [19/Jul/2025 18:45:24] "GET /download HTTP/1.1" 200 -
+2025-07-19 18:45:44,192 - INFO - 127.0.0.1 - - [19/Jul/2025 18:45:44] "GET / HTTP/1.1" 200 -
+2025-07-19 18:45:47,894 - INFO - 127.0.0.1 - - [19/Jul/2025 18:45:47] "GET /logs HTTP/1.1" 200 -
+2025-07-19 18:45:50,137 - INFO - 127.0.0.1 - - [19/Jul/2025 18:45:50] "GET / HTTP/1.1" 200 -
+2025-07-22 15:15:38,151 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-22 15:15:38,166 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-22 15:15:38,166 - INFO -  * Restarting with stat
+2025-07-22 15:15:40,129 - WARNING -  * Debugger is active!
+2025-07-22 15:15:40,138 - INFO -  * Debugger PIN: 120-699-887
+2025-07-22 15:16:30,352 - INFO - 127.0.0.1 - - [22/Jul/2025 15:16:30] "GET / HTTP/1.1" 200 -
+2025-07-22 15:16:31,608 - INFO - 127.0.0.1 - - [22/Jul/2025 15:16:31] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-22 15:16:34,941 - INFO - 127.0.0.1 - - [22/Jul/2025 15:16:34] "GET /history HTTP/1.1" 200 -
+2025-07-22 15:19:51,320 - INFO - Scraping URL: https://www.epfindia.gov.in/site_docs/PDFs/UAN_PDFs/UAN_ForEmployers/FAQ-Employer-July2015.pdf
+2025-07-22 15:19:52,770 - WARNING - No data scraped
+2025-07-22 15:19:52,776 - INFO - 127.0.0.1 - - [22/Jul/2025 15:19:52] "[32mPOST /scrape HTTP/1.1[0m" 302 -
+2025-07-22 15:19:52,790 - INFO - 127.0.0.1 - - [22/Jul/2025 15:19:52] "GET / HTTP/1.1" 200 -
+2025-07-22 15:20:28,267 - INFO - Scraping URL: https://www.epfindia.gov.in/site_docs/PDFs/UAN_PDFs/UAN_ForEmployers/FAQ-Employer-July2015.pdf
+2025-07-22 15:20:32,671 - ERROR - Error scraping https://www.epfindia.gov.in/site_docs/PDFs/UAN_PDFs/UAN_ForEmployers/FAQ-Employer-July2015.pdf: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-07-22 15:20:32,671 - ERROR - Scraping error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-07-22 15:20:32,672 - INFO - 127.0.0.1 - - [22/Jul/2025 15:20:32] "[32mPOST /scrape HTTP/1.1[0m" 302 -
+2025-07-22 15:20:32,685 - INFO - 127.0.0.1 - - [22/Jul/2025 15:20:32] "GET / HTTP/1.1" 200 -
+2025-07-22 15:23:42,674 - INFO - Scraping URL: https://simple.wikipedia.org/wiki/India#Military
+2025-07-22 15:23:44,324 - ERROR - Error scraping https://simple.wikipedia.org/wiki/India#Military: Invalid character '<' position 0
+  line 1:
+<p>
+^
+2025-07-22 15:23:44,324 - ERROR - Scraping error: Invalid character '<' position 0
+  line 1:
+<p>
+^
+2025-07-22 15:23:44,324 - INFO - 127.0.0.1 - - [22/Jul/2025 15:23:44] "[32mPOST /scrape HTTP/1.1[0m" 302 -
+2025-07-22 15:23:44,331 - INFO - 127.0.0.1 - - [22/Jul/2025 15:23:44] "GET / HTTP/1.1" 200 -
+2025-07-22 15:24:05,725 - INFO - Scraping URL: https://simple.wikipedia.org/wiki/India#Military
+2025-07-22 15:24:07,995 - INFO - Scraping complete.
+2025-07-22 15:24:07,997 - INFO - 127.0.0.1 - - [22/Jul/2025 15:24:07] "[32mPOST /scrape HTTP/1.1[0m" 302 -
+2025-07-22 15:24:08,009 - INFO - 127.0.0.1 - - [22/Jul/2025 15:24:08] "GET / HTTP/1.1" 200 -
+2025-07-22 15:24:12,942 - INFO - 127.0.0.1 - - [22/Jul/2025 15:24:12] "GET /history HTTP/1.1" 200 -
+2025-07-22 15:24:15,726 - INFO - 127.0.0.1 - - [22/Jul/2025 15:24:15] "GET /download HTTP/1.1" 200 -
+2025-07-22 15:29:28,022 - INFO -  * Detected change in 'C:\\Users\\Admin\\OneDrive\\Desktop\\webscraping\\app.py', reloading
+2025-07-22 15:29:29,031 - INFO -  * Restarting with stat
+2025-07-22 15:29:57,589 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-22 15:29:57,593 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-22 15:29:57,593 - INFO -  * Restarting with stat
+2025-07-22 15:29:59,179 - WARNING -  * Debugger is active!
+2025-07-22 15:29:59,201 - INFO -  * Debugger PIN: 120-699-887
+2025-07-22 15:30:22,234 - INFO - 127.0.0.1 - - [22/Jul/2025 15:30:22] "GET / HTTP/1.1" 200 -
+2025-07-22 15:31:52,717 - INFO - Scraping URL: https://en.wikipedia.org/wiki/MS_Dhoni
+2025-07-22 15:31:56,356 - INFO - Scraping URL: https://en.wikipedia.org/wiki/MS_Dhoni
+2025-07-22 15:31:56,874 - INFO - Scraping complete.
+2025-07-22 15:31:56,879 - INFO - 127.0.0.1 - - [22/Jul/2025 15:31:56] "[32mPOST /scrape HTTP/1.1[0m" 302 -
+2025-07-22 15:31:58,096 - INFO - Scraping URL: https://en.wikipedia.org/wiki/MS_Dhoni
+2025-07-22 15:31:59,849 - INFO - Scraping complete.
+2025-07-22 15:31:59,866 - INFO - 127.0.0.1 - - [22/Jul/2025 15:31:59] "[32mPOST /scrape HTTP/1.1[0m" 302 -
+2025-07-22 15:32:01,176 - INFO - Scraping complete.
+2025-07-22 15:32:01,177 - INFO - 127.0.0.1 - - [22/Jul/2025 15:32:01] "[32mPOST /scrape HTTP/1.1[0m" 302 -
+2025-07-22 15:32:01,218 - INFO - 127.0.0.1 - - [22/Jul/2025 15:32:01] "GET / HTTP/1.1" 200 -
+2025-07-23 15:30:47,077 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-23 15:30:47,086 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-23 15:30:47,090 - INFO -  * Restarting with stat
+2025-07-23 15:30:48,767 - WARNING -  * Debugger is active!
+2025-07-23 15:30:48,771 - INFO -  * Debugger PIN: 120-699-887
+2025-07-23 15:30:49,166 - INFO - 127.0.0.1 - - [23/Jul/2025 15:30:49] "GET / HTTP/1.1" 200 -
+2025-07-23 15:30:49,829 - INFO - 127.0.0.1 - - [23/Jul/2025 15:30:49] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-23 16:40:38,387 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-23 16:40:38,393 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-23 16:40:38,393 - INFO -  * Restarting with stat
+2025-07-23 16:40:40,145 - WARNING -  * Debugger is active!
+2025-07-23 16:40:40,156 - INFO -  * Debugger PIN: 120-699-887
+2025-07-23 16:41:02,129 - INFO - 127.0.0.1 - - [23/Jul/2025 16:41:02] "GET / HTTP/1.1" 200 -
+2025-07-23 16:41:06,548 - INFO - 127.0.0.1 - - [23/Jul/2025 16:41:06] "GET /history HTTP/1.1" 200 -
